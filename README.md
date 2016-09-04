@@ -1,8 +1,8 @@
 # Setting-up-Linux
-Ian Daniel
+Ian Daniel  
 September 2016
 ## Description 
-The sets I have taken to setup linux on my laptop.  They are mainly here to help me remember the exact commands that were required to either install new 'items' or fix problems.
+This documents is mainly here to help me remeber what I did if I need to reload for what ever reason.  If this can help someone else, awesome.  Some obvious stuff I haven't put up for example installing node, npm or git.
 
 ## To get something installed
 * (Obvious) Download the iso for the desired distro.  ie Ubuntu
