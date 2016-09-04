@@ -22,4 +22,12 @@ The sets I have taken to setup linux on my laptop.  They are mainly here to help
 ## Installing Virtual Box 
 * Download VirtualBox from [Here](https://www.virtualbox.org/wiki/Linux_Downloads)
 * Will also need the extension, get it [Here](https://www.virtualbox.org/wiki/Downloads)
-  - The extension pack is need to pass though USB2 and USB3.  I'm sure there is other things it is good for.
+  * The extension pack is need to pass though USB2 and USB3.  I'm sure there is other things it is good for.
+
+## If there is funny mouse artifacts/echos or what ever still hanging around.  This can be improved be changing the display settings.
+* System Settings > Display > Compositor
+  * You can try changing "Tearing Prevention(vsync)" to full screen repaints, but 'they' say it is more hardware intentsive.
+  * The other option is to turn off OpenGL and use XRender.
+* OpenGL requires an installed graphics card to render the screen.  Where as XRender is an extension of XServer and does not required graphics.  XRender also doesn't support as many features compared to OpenGL, it is simple and basic.  Explained better [here](http://stackoverflow.com/questions/22318322/what-is-the-difference-between-opengl-and-xrender-in-kde-desktop-effects)
+
+## Next  
