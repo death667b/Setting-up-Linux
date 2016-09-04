@@ -10,5 +10,5 @@ The sets I have taken to setup linux on my laptop.  They are mainly here to help
 
 ## First boot
 * Find a Terminal and run:
-* * `sudo apt-get update`
-* * `sudo apt-get upgrade`
+: * `sudo apt-get update`
+: * `sudo apt-get upgrade`
