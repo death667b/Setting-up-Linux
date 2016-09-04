@@ -18,3 +18,8 @@ The sets I have taken to setup linux on my laptop.  They are mainly here to help
   * `sudo ubuntu-drivers autoinstall`
   * `sudo reboot`
   * Noted after this the boot process took longer, don't know why
+
+## Installing Virtual Box 
+* Download VirtualBox from [Here](https://www.virtualbox.org/wiki/Linux_Downloads)
+* Will also need the extension, get it [Here](https://www.virtualbox.org/wiki/Downloads)
+  - The extension pack is need to pass though USB2 and USB3.  I'm sure there is other things it is good for.
