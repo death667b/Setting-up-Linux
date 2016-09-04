@@ -32,6 +32,6 @@ If there is funny mouse artifacts/echos or what ever still hanging around.  This
 * OpenGL requires an installed graphics card to render the screen.  Where as XRender is an extension of XServer and does not required graphics.  XRender also doesn't support as many features compared to OpenGL, it is simple and basic.  Explained better [here](http://stackoverflow.com/questions/22318322/what-is-the-difference-between-opengl-and-xrender-in-kde-desktop-effects)
 
 ## MATLAB
-  First download the massive program from their website.
-  When activating, be sure to use the correct username - or else...
+First download the massive program from their website.  
+When activating, be sure to use the correct username - or else...  
 If
