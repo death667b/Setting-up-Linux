@@ -31,4 +31,7 @@ If there is funny mouse artifacts/echos or what ever still hanging around.  This
   * The other option is to turn off OpenGL and use XRender.
 * OpenGL requires an installed graphics card to render the screen.  Where as XRender is an extension of XServer and does not required graphics.  XRender also doesn't support as many features compared to OpenGL, it is simple and basic.  Explained better [here](http://stackoverflow.com/questions/22318322/what-is-the-difference-between-opengl-and-xrender-in-kde-desktop-effects)
 
-## Next  
+## MATLAB
+  First download the massive program from their website.
+  When activating, be sure to use the correct username - or else...
+If
