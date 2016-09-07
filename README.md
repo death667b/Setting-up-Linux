@@ -55,10 +55,26 @@ Things to know about the above link.
 Cisco VPN was not needed for this to work.  If using the VPN the server is //homestud03 or something like that.  It is always hard finding details on this from the Uni.
 
 ## Replace Bash with Zsh (and make it look awesome)
-TODO
+There are three main parts to get started.
+* Install zsh - `sudo apt-get install zsh`
+* Install Oh my zsh - `curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh`
+  This might end in a error/warning with chsh  
+  If you are running zsh with the extra oh my zsh in a terminal you need to adjust the terminal settings, not just the shell.
+* Ubuntu Konsole.  
+  * Open a new window
+  * Settings
+  * Manage Profiles
+  * Click edit profile
+  * You should see an area called command that has `/bin/bash`, change to `/bin/zsh`
+  * click apply then close the windows
+  * reset konsole and it should now be zsh
+Once all this is working, you can now start trying different themes
+* Using an editor in the home directory ~ type `sudo nano .zshrc`
+* Look for the line(about line 10) starting with ZSH_THEME="".  Inside the quotes enter the theme name.
+* Theme names can be found [here](https://zshthem.es/all/)
 
 ## Dropbox
-This worked without any problems.  It did require somethign extra, but it was automatica.
+This worked without any problems.  It did require something extra, but it was automatic.
 
 ## Google Drive 
 TODO
