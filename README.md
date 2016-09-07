@@ -74,7 +74,12 @@ Once all this is working, you can now start trying different themes
 * Theme names can be found [here](https://zshthem.es/all/)
 
 ## Dropbox
-This worked without any problems.  It did require something extra, but it was automatic.
+Install Dropbox from their website.  It will install any extras required.
+It will create a dropbox folder in the user home directory.
+
+## QUT Wifi
+To setup the Wifi for the standard QUT network, follow the Android option.  These steps can be found [here](https://heat.qut.edu.au/HEAT/Default.aspx?Role=SelfService&Scope=SelfService&CommandId=Open&Tab=Knowledge&ItemId=F3F2947927DE43FA8053CDBFB87875A6#1473111243889).  Note, you need to have a QUT username and password to access this information.
+
 
 ## Google Drive 
 TODO
@@ -84,9 +89,6 @@ TODO
 
 ## FTP
 On windows I currently use a program called WebDrive which works well.  I need to find a good replacment like that for Linux.
-
-## Uni Wifi
-TODO:  IFB102 get the RPi's working on Wifi
 
 ## EduRoam
 TODO
