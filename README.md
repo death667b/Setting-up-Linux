@@ -1,5 +1,4 @@
 # Setting-up-Linux
-Ian Daniel  
 September 2016
 ## Description 
 This documents is mainly here to help me remeber what I did if I need to reload for what ever reason.  If this can help someone else, awesome.  Some obvious stuff I haven't put up for example installing node, npm or git.
@@ -96,7 +95,8 @@ TODO
 On windows I currently use a program called WebDrive which works well.  I need to find a good replacment like that for Linux.
 
 ## EduRoam
-TODO
+Same as QUT WiFi with a small change to the username.
+![image](eduroamWirelessSettings.png)
 
 ## Uni Printers
 TODO
