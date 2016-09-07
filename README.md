@@ -80,8 +80,11 @@ It will create a dropbox folder in the user home directory.
 ## QUT Wifi
 To setup the Wifi for the standard QUT network, follow the Android option.  These steps can be found [here](https://heat.qut.edu.au/HEAT/Default.aspx?Role=SelfService&Scope=SelfService&CommandId=Open&Tab=Knowledge&ItemId=F3F2947927DE43FA8053CDBFB87875A6#1473111243889).  Note, you need to have a QUT username and password to access this information.
 
-When a picture holds a thousand words... 
-![image](QUTWirelessSettings.jpg)
+When a picture holds a thousand words...  
+![image](QUTWirelessSettings.jpg)  
+
+When adding a new wireless connection. Click the wireless security tab at the top.  
+Then mimick the settings in the above image.  
 
 ## Google Drive 
 TODO
