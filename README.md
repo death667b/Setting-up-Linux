@@ -96,7 +96,7 @@ Install the node manager NVM from their [GitHub repo](https://github.com/creatio
 `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.7/install.sh | bash`  
 
 Once NVM is installed run `nvm install {version}`  
-*{version} would be something like 6.5.0  
+* {version} would be something like 6.5.0  
 
 NPM just via apt-get  
 `sudo apt-get install npm`  
