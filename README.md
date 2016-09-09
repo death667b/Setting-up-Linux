@@ -86,6 +86,21 @@ When a picture is worth a thousand words...
 When adding a new wireless connection. Click the wireless security tab at the top.  
 Then mimick the settings in the above image.  
 
+## EduRoam
+Same as QUT WiFi with a small change to the username.
+
+![image](eduroamWirelessSettings.png)
+
+## Node and NPM
+Install the node manager NVM from their [GitHub repo](https://github.com/creationix/nvm)  
+`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.7/install.sh | bash`  
+
+Once NVM is installed run `nvm install {version}`  
+  {version} would be something like 6.5.0  
+
+NPM just via apt-get  
+`sudo apt-get install npm`  
+
 ## Google Drive 
 TODO
 
@@ -95,10 +110,6 @@ TODO
 ## FTP
 On windows I currently use a program called WebDrive which works well.  I need to find a good replacment like that for Linux.
 
-## EduRoam
-Same as QUT WiFi with a small change to the username.
-
-![image](eduroamWirelessSettings.png)
 
 ## Uni Printers
 TODO
